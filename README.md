@@ -152,6 +152,7 @@ Para ejecutar este código, necesitas tener instalado Python y la biblioteca Tki
       auto-py-to-exe
       ```
     - Esto abrirá la interfaz gráfica de la herramienta.
+    <p><img src="./auto py to exe.png" alt="imagen1"  /></p>
 
 4. **Seleccionar el archivo .py**
 
